@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="multiselect-dropdown-search" />
+            <item index="1" class="java.lang.String" itemvalue="multiselect-select-all" />
+            <item index="2" class="java.lang.String" itemvalue="multiselect-search" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="clyent" />
+            <item index="1" class="java.lang.String" itemvalue="navigator-updater" />
+            <item index="2" class="java.lang.String" itemvalue="pycurl" />
+            <item index="3" class="java.lang.String" itemvalue="scikit-learn-intelex" />
+            <item index="4" class="java.lang.String" itemvalue="conda-build" />
+            <item index="5" class="java.lang.String" itemvalue="pycosat" />
+            <item index="6" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="7" class="java.lang.String" itemvalue="tables" />
+            <item index="8" class="java.lang.String" itemvalue="TBB" />
+            <item index="9" class="java.lang.String" itemvalue="conda-verify" />
+            <item index="10" class="java.lang.String" itemvalue="cytoolz" />
+            <item index="11" class="java.lang.String" itemvalue="conda" />
+            <item index="12" class="java.lang.String" itemvalue="anaconda-navigator" />
+            <item index="13" class="java.lang.String" itemvalue="sip" />
+            <item index="14" class="java.lang.String" itemvalue="datashape" />
+            <item index="15" class="java.lang.String" itemvalue="mkl-service" />
+            <item index="16" class="java.lang.String" itemvalue="Pillow" />
+            <item index="17" class="java.lang.String" itemvalue="asgiref" />
+            <item index="18" class="java.lang.String" itemvalue="Django" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.dispatch" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
